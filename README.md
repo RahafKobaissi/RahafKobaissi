@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @RahafKobaissi
 - 👀 I’m still discovering my passion and interests.Always in continous learning and growth
-- 🌱 I’m currently learning laravel
 - 📫 You can reach me via : kobaissirahaf@gmail.com
 
 <!---
