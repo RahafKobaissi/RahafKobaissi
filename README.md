@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Rahaf Kobaissi
-- 👀 I’m a Master’s student in Artificial Intelligence and GenAI, currently exploring different areas of machine learning, and IoT.
+- 👀 I’m a Master’s student in Advanced Artificial Intelligence and GenAI, currently working on my thesis S2ST in collaboration with IRIMAS Lab at the University of Haute-Alsace (UHA) in France
 - 😄 Always in continous learning and improving step by step to discover which fields excite me the most.
 - 📫 You can reach me via : kobaissirahaf@gmail.com
 
